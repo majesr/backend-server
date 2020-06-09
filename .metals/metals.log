@@ -1,3 +1,7 @@
 2020.06.01 12:32:50 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\MAJESR\Desktop\Angular\angular_avanzado\backend-server'
 2020.06.01 12:32:53 INFO  time: initialize in 2.99s
 2020.06.01 12:33:55 WARN  no build tool detected in workspace 'C:\Users\MAJESR\Desktop\Angular\angular_avanzado\backend-server'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.06.06 11:42:44 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\MAJESR\Desktop\Angular\angular_avanzado\backend-server'
+2020.06.06 11:42:46 INFO  time: initialize in 1.81s
+2020.06.06 11:42:54 WARN  no build tool detected in workspace 'C:\Users\MAJESR\Desktop\Angular\angular_avanzado\backend-server'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.06.06 16:07:07 INFO  shutting down Metals
